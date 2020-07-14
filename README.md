@@ -8,6 +8,8 @@
 
 I create and contribute to open source packages mainly about TYPO3 and Laravel. I have a passion for learning and sharing my knowledge with others. Below is a list of my highlight projects. If you found value in something I have created, please feel free to sponsor me here on GitHub.
 
+![image](https://github.com/simonschaufi/simonschaufi/blob/master/dino.gif)
+
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=simonschaufi.visitor-badge" alt="visitor badge" align="center" />
 </p>
