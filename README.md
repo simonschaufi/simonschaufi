@@ -10,9 +10,9 @@ I create and contribute to open source packages mainly about TYPO3 and Laravel. 
 
 ![image](https://github.com/simonschaufi/simonschaufi/blob/master/dino.gif)
 
-<p align="center">
+<!--<p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=simonschaufi.visitor-badge" alt="visitor badge" align="center" />
-</p>
+</p>-->
 
 <!--
 **simonschaufi/simonschaufi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
